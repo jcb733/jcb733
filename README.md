@@ -1,2 +1,5 @@
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=jcb733&show_icons=true&theme=dracula)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+# Estatísticas do GitHub
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcb733&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcb733&layout=compact&langs_count=7&theme=dracula" />
+</p>
