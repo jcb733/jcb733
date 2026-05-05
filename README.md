@@ -6,6 +6,7 @@
 ## 🚀 Projetos em Destaque
 - **OncoData:** Banco de dados oncológico utilizando métricas do DATASUS (Projeto de Conclusão de Curso).
 - **LLM Fine-tuning:** Experimentos e implementações utilizando Llama e modelos de IA Generativa.
+- **Tronvix:** Projeto pessoal para indústria, com foco em maior rastreabilidade de recursos e menor desperdício integrado a IA.
 
 ## 🛠️ Tecnologias
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
